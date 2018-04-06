@@ -1,5 +1,5 @@
 <?php
 echo "second tutorial for learning GIT";
 echo "<br />";
-echo "changed";
+echo "second changed";
 ?>
